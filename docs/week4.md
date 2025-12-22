@@ -32,6 +32,8 @@ Maintaining system stability
 Even though the update could not complete due to network limitations, this step demonstrates correct system maintenance practice and awareness of network configuration constraints.
 
 ## Evidence
+### System Update Attempt
+![System update output](assets/screenshots/week4/w4-01-system-update-failed.png)
 
 # 2. SSH Service Verification (Remote Administration)
 
@@ -52,6 +54,9 @@ Preset status: enabled
 This means SSH was available but not actively running at the time of verification.
 
 ## Evidence
+### SSH Service Status
+![SSH service status](assets/screenshots/week4/w4-02-ssh-service-status.png)
+
 
 # 3. Firewall Configuration (UFW)
 
@@ -80,6 +85,8 @@ SSH access remains available for administration
 Other ports remain protected by default
 
 ## Evidence
+### Firewall Status (UFW)
+![UFW status](assets/screenshots/week4/w4-03-ufw-status.png)
 
 # 4. Enabling SSH Service (Final Fix)
 
@@ -96,6 +103,8 @@ SSH service changed to active (running)
 Server is now ready for secure remote access
 
 ## Evidence
+### SSH Service Running
+![SSH running](assets/screenshots/week4/w4-04-ssh-active.png)
 
 # Conclusion
 
@@ -110,3 +119,4 @@ Firewall (UFW) was enabled with secure SSH access
 SSH service was successfully activated for remote administration
 
 These steps ensure the Ubuntu Server is secure, manageable, and prepared for further configuration in upcoming weeks.
+
