@@ -41,7 +41,7 @@ The syslog file records general system activity, including service events and ba
 This confirms that system activity is being logged correctly.
 
 ### Evidence:
-![Syslog output](assets/screenshots/week6/w6-02-syslog.png)
+![Syslog output](assets/screenshots/week6/w6-02-syslog-tail.png)
 
 
 
@@ -105,3 +105,4 @@ Use of modern Linux performance analysis tools
 # Summary
 
 In this phase, system performance and activity were evaluated through comprehensive log analysis. Traditional log files and the systemd journal were reviewed to assess system behaviour, authentication activity, and remote access events. This phase highlights the importance of log management in performance evaluation, troubleshooting, and secure system administration.
+
