@@ -46,5 +46,7 @@ Ubuntu is widely used in both academic and professional environments, making it 
 This week provided an understanding of system planning and the importance of selecting the right operating system. Ubuntu was chosen as the most suitable Linux distribution due to its stability, support, and ease of use, making it appropriate for coursework and practical learning.
 
 
-![Ubuntu Version](docs/assets/screenshots/week2/w2-01-ubuntu-version.png)
+![Ubuntu Version](assets/screenshots/week2/w2-01-ubuntu-version.png)
+
+
 
