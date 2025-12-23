@@ -56,7 +56,7 @@ This means SSH was available but not actively running at the time of verificatio
 ## Evidence
 ### SSH Service Status
 
-![SSH Service Status](../assets/screenshots/week4/w4-02-ssh-service-running.png)
+![SSH Service Status](assets/screenshots/week4/w4-02-ssh-service-running.png)
 
 
 
@@ -121,6 +121,7 @@ Firewall (UFW) was enabled with secure SSH access
 SSH service was successfully activated for remote administration
 
 These steps ensure the Ubuntu Server is secure, manageable, and prepared for further configuration in upcoming weeks.
+
 
 
 
