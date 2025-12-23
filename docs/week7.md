@@ -136,5 +136,6 @@ Service sprawl    	Low        	All services justified
 
 The security audit confirms that the Ubuntu Server system is securely configured with appropriate access controls, minimal attack surface, and justified running services. Although automated tools such as Lynis and Nmap could not be installed due to environmental constraints, the documented attempts and alternative verification steps demonstrate strong security awareness and adherence to best practices.
 
-This phase successfully fulfils all assessment requirements for Phase 7: Security Audit and System Evaluation.
+
+
 
